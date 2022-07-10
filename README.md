@@ -22,7 +22,23 @@ haciendonos preguntas como estás:
 # ES importante simplemente entender o solo conocer dos conceptos:
 
  HTML Y CSS
- 
+
  los diseñadores web crean las páginas utilizando lenguajes de marcado como HTML o XML.
 
 Por otro lado, la parte visual de los sitios está a cargo del CSS, término utilizado para estilizar los elementos escritos en HTML.
+
+# Elementos clave del diseño web:
+
+## RESPONSIVIDAD
+Que nuestro sitio sea responsivo (se renderize bien en todos los disposivos donde se visita) es algo escencial, ya que a mayoría de los sitios web son visitado desde un telefono móvil.
+
+## ESCANEABILIDAD (referido a lo textual)
+Sabemos que muchas persona e incluso vos que estás leyendo esto vivimos tras varios blogs,  portales de noticias,  redes sociales y hasta buzon de correo. 
+Y todo en un mismo ordenador.
+
+## TIPOGRAFÍA
+La tipografía puede cambiar la experiencia de lectura completamente para algunos usuarios.
+
+# VELOCIDAD DE CARGA
+La gente siempre esta apurada por lo tanto tener un sitio web de carga rápida es esencial.
+
