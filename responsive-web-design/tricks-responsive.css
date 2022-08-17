@@ -1,0 +1,45 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+/*
+	1 rem = 16px
+	font-size: 100%;
+  */
+
+/*
+	font-size: 62.5%;
+	1 rem = 10px
+  */
+
+/* 37.5 * 16 = 600px */
+@media only screen and (max-width: 37.5em) {
+  html {
+    font-size: 56.25%;
+  }
+}
+/* 56.25 * 16 = 900px */
+@media only screen and (max-width: 56.25em) {
+  html {
+    font-size: 40%;
+  }
+}
+/* 75 * 16 = 1200px */
+@media only screen and (max-width: 75em) {
+  html {
+    font-size: 30%;
+  }
+}
+/* 112.5 * 16 = 1800px */
+@media only screen and (min-width: 112.5em) {
+  html {
+    font-size: 70%;
+  }
+}
