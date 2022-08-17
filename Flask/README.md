@@ -25,3 +25,9 @@ Press CTRL+C to quit
  * Debugger is active!
  * Debugger PIN: 143-918-110
 ```
+
+## instalar el paquete de conexión a MYSQL
+
+```c
+pip install flask-mysqldb
+```
